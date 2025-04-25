@@ -1,0 +1,4 @@
+first_name,last_name,email,phone_number,phone_type
+Иван,Иванов,ivan@example.com,+7 999 123 4567,mobile
+Мария,Петрова,maria@example.com,+7 999 765 4321,work
+Алексей,Сидоров,alex@example.com,+7 999 555 1234,home
